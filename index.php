@@ -13,7 +13,7 @@ function sayHello($name) {
 
 <html>
 	<head>
-		<title>Hello World!</title>
+		<title>HOla clase!</title>
 	</head>
 	<body>
 		<?php 

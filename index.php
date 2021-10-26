@@ -13,12 +13,12 @@ function sayHello($name) {
 
 <html>
 	<head>
-		<title>Visual Studio Code Remote :: PHP</title>
+		<title>Hello World!</title>
 	</head>
 	<body>
 		<?php 
 		
-		sayHello('remote world');
+		sayHello('Hello Profe');
 			
 		phpinfo(); 
 			
